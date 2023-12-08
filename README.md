@@ -1,41 +1,53 @@
 # Veegil Finance App
+# Fullname: Pinponsuhu Joseph
 
-## Overview
-
-Welcome to Veegil Finance, your go-to app for managing your financial transactions seamlessly. This mobile application provides a user-friendly interface to perform various financial operations, including withdrawal, depositing funds, and viewing transaction history.
+Welcome to Veegil Finance, your go-to app for managing your finances on the go. With Veegil Finance, you can easily perform various financial transactions, view your transaction history, and manage your account seamlessly.
 
 ## Features
 
-### 1. **Withdrawal and Deposit:**
-   - Easily withdraw or deposit funds with just a few taps.
-   - Secure and straightforward transaction process for your convenience.
+### 1. Withdrawal
+Easily withdraw funds from your account whenever you need cash. Veegil Finance ensures a secure and straightforward withdrawal process.
 
-### 2. **Transaction History:**
-   - View detailed transaction history, including both debit and credit transactions.
-   - Keep track of your financial activities to stay informed about your account status.
+### 2. Deposit
+Quickly deposit funds into your account using the app. Enjoy the convenience of managing your finances without visiting a physical bank.
 
-### 3. **User-Friendly Interface:**
-   - Intuitive and easy-to-navigate design for a smooth user experience.
-   - Access essential features with minimal effort.
+### 3. Transaction History
+View detailed transaction history for both debit and credit transactions. Keep track of your financial activities to stay informed about your account balance.
 
 ## Preview
+Check out the [Veegil Finance App Preview](https://appetize.io/app/vyke3ciflpdzag3zkb574fvrru?device=pixel7&osVersion=13.0) to get a sneak peek at the app's user interface and features.
 
-Explore the Veegil Finance app using the [Appetize.io preview](https://appetize.io/app/vyke3ciflpdzag3zkb574fvrru?device=pixel7&osVersion=13.0) to get a sneak peek into the app's functionality and interface.
+## How to Run the Flutter Program
 
-## Getting Started
+To run the Veegil Finance Flutter program on your local machine, follow these simple steps:
 
-To get started with Veegil Finance, follow these simple steps:
+### Prerequisites
+1. Install [Flutter](https://flutter.dev/docs/get-started/install).
+2. Set up your preferred [IDE for Flutter](https://flutter.dev/docs/get-started/editor).
 
-1. **Installation:**
-   - Download and install the Veegil Finance app from your preferred app store.
+### Steps
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/veegil-finance.git
+   ```
 
-2. **Account Setup:**
-   - Create an account by providing the necessary information.
-   - Set up your profile to personalize your Veegil Finance experience.
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd veegil-finance
+   ```
 
-3. **Start Transacting:**
-   - Once your account is set up, start making withdrawals, deposits, and explore the app's features.
+3. **Get Dependencies:**
+   ```bash
+   flutter pub get
+   ```
 
-4. **View Transactions:**
-   - Check your transaction history to monitor your financial activities.
+4. **Run the App:**
+   ```bash
+   flutter run
+   ```
+
+   This command will build and run the Veegil Finance app on your connected device or emulator.
+
+5. **Explore the App:**
+   Once the app is running, explore its features, make transactions, and experience the convenience of managing your finances with Veegil Finance.
 
